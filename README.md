@@ -14,11 +14,20 @@
 </p>
 
 <p align="center">
-  <a href="https://cagridursun.com">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/cagridursun">LinkedIn</a>
-  ·
-  <a href="https://x.com/c__dursun">X</a>
+  <a href="https://cagridursun.com">
+    <img src="./assets/website-icon.png" alt="" width="18" height="32" />
+    Website
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cagridursun">
+    <img src="./assets/linkedin-icon.png" alt="" width="18" height="32" />
+    LinkedIn
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/c__dursun">
+    <img src="./assets/xcom-icon.png" alt="" width="18" height="32" />
+    X
+  </a>
 </p>
 
 ---
@@ -97,14 +106,3 @@ I’m particularly interested in the engineering around AI systems: how agents u
 
 ---
 
-## Elsewhere
-
-<p>
-  <a href="https://cagridursun.com">Website</a>
-  ·
-  <a href="https://github.com/cagridursun">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/cagridursun">LinkedIn</a>
-  ·
-  <a href="https://x.com/c__dursun">X</a>
-</p>
